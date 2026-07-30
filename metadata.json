@@ -1,0 +1,8 @@
+{
+  "name": "Asset Tracking Management System",
+  "description": "Sistem manajemen dan pelacakan aset perusahaan lengkap dengan QR code, depresiasi, pemeliharaan, mutasi, dan analisis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
